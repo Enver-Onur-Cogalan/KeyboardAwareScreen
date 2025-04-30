@@ -50,11 +50,4 @@ App.tsx
 
 ---
 
-## ✅ Screenshot
-
-![Login Screen](./screenshot-login.png)
-
-
----
-
 Let’s keep building better UI/UX! 💪
